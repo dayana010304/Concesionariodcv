@@ -1,0 +1,11 @@
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\bin\Debug\Controlador.exe.config
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\bin\Debug\Controlador.exe
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\bin\Debug\Modelo.exe
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\bin\Debug\Modelo.exe.config
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\obj\Debug\Controlador.exe
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Controlador\obj\Debug\Controlador.pdb

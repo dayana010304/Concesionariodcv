@@ -1,0 +1,7 @@
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Modelo\bin\Debug\Modelo.exe.config
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Modelo\bin\Debug\Modelo.exe
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Modelo\obj\Debug\Modelo.exe
+C:\Users\Dayana Cossio\source\repos\Concesionariodcv\Modelo\obj\Debug\Modelo.pdb
